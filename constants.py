@@ -10,5 +10,6 @@ yacht = 8
 michealJ = 29
 numSongs = 1
 numStations = 10
+arduinoNum = '0'
 path = "/Users/s1034274/Desktop"
 #path = "/home/pi/Desktop"
