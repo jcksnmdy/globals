@@ -12,5 +12,6 @@ michealJ = 31 + error
 numSongs = 1
 numStations = 10
 arduinoNum = '0'
+globalDelay = 0.077
 #path = "/Users/s1034274/Desktop"
 path = "/home/pi/Desktop"
