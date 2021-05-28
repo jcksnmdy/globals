@@ -1,5 +1,5 @@
 error = 0
-flag "blue"
+flag = "white"
 monHipHop = 6 + error
 tuesRock = 45 + error
 wedWayBack = 42 + error
