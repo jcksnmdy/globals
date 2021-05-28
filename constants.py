@@ -1,4 +1,5 @@
 error = 0
+flag "blue"
 monHipHop = 6 + error
 tuesRock = 45 + error
 wedWayBack = 42 + error
