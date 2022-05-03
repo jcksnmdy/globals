@@ -1,7 +1,8 @@
-error = 0
+error = 5
 flag = "white"
 monHipHop = 6 + error
 tuesRock = 45 + error
+knockColor = 1
 wedWayBack = 42 + error
 thursThrowback = 35 + error
 fridayHits = 53 + error
